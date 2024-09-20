@@ -1,0 +1,3 @@
+[submodule "BonDriverProxyEx"]
+	path = BonDriverProxyEx
+	url = git@gitlab.com:takahiro-itou-dtv/BonDriverProxyEx.git

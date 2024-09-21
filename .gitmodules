@@ -1,3 +1,6 @@
 [submodule "BonDriverProxyEx"]
 	path = BonDriverProxyEx
 	url = ../BonDriverProxyEx.git
+[submodule "CasProcessor"]
+	path = CasProcessor
+	url = git@gitlab.com:takahiro-itou-dtv/CasProcessor.git

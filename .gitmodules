@@ -4,3 +4,6 @@
 [submodule "CasProcessor"]
 	path = CasProcessor
 	url = ../CasProcessor.git
+[submodule "DTV-Builds"]
+	path = DTV-Builds
+	url = git@gitlab.com:takahiro-itou-dtv/DTV-Builds.git

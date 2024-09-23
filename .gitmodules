@@ -16,3 +16,6 @@
 [submodule "LAVFilters"]
 	path = LAVFilters
 	url = ../LAVFilters.git
+[submodule "libaribb25"]
+	path = libaribb25
+	url = git@gitlab.com:takahiro-itou-dtv/libaribb25.git

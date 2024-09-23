@@ -9,4 +9,4 @@
 	url = ../DTV-Builds.git
 [submodule "EDCB"]
 	path = EDCB
-	url = git@gitlab.com:takahiro-itou-dtv/EDCB.git
+	url = ../EDCB.git

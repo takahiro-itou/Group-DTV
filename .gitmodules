@@ -15,4 +15,4 @@
 	url = ../fdk-aac.git
 [submodule "LAVFilters"]
 	path = LAVFilters
-	url = git@gitlab.com:takahiro-itou-dtv/LAVFilters.git
+	url = ../LAVFilters.git
